@@ -1,2 +1,2 @@
-token = "token here"
-sudo_u = "your id here"
+token = "416499543:AAGSw1pDWUERbZPKViCJv3fERKt02YC4Xk0"
+sudo_u = "183982329"
